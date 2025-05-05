@@ -1,0 +1,2 @@
+# erickduarte.dev
+Static Blog
