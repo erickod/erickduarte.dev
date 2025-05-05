@@ -10,7 +10,7 @@ series: []
 aliases: []
 cover:
   image: images/msg.png
-  # caption: "Generated using [OG Image Playground by Vercel](https://og-playground.vercel.app/)"
+  caption: "Markdown Logo"
 ShowToc: true
 TocOpen: true
 ---
