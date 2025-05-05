@@ -45,7 +45,7 @@ params:
     enabled: False
     title: Erick Duarte
     subtitle: "Software Engineer | Algorithms | Domain Driven Design | EDA"
-    imageUrl: "https://raw.githubusercontent.com/googlefonts/noto-emoji/master/svg/emoji_u1f9d1_1f3fb_200d_1f4bb.svg"
+    imageUrl: "/images/erickod_avatar.svg"
     imageTitle: Erick Duarte
     # imageWidth: 120
     # imageHeight: 120
